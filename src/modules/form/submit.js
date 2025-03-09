@@ -13,6 +13,4 @@ selectedDate.min = inputToday;
 form.onsubmit = (event) => {
   // Previne o comportamento padrão de carregar a página.
   event.preventDefault();
-
-  console.log("ENVIADO!");
 }
