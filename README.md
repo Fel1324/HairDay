@@ -6,10 +6,6 @@
 
 O projeto é um site de agendamento de cortes de cabelo.
 
-
-[🔗 Clique aqui para acessar o projeto!](https://fel1324.github.io/HairDay/)
-
-
 ## 🎉 Tecnologias
 
 - HTML e CSS
