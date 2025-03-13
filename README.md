@@ -46,7 +46,6 @@ $ npm run dev
 ```
 
 > A API irá iniciar em -> http://localhost:3333
-<br>
 > O projeto irá iniciar em -> http://localhost:3000
 
 ## 💚 Contato
