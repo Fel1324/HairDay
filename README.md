@@ -38,15 +38,14 @@ $ npm install ou npm i
 
 # Execute a API
 $ npm run server
+> A API irá iniciar em -> http://localhost:3333
 
 # Abra outro terminal/cmd
 
 # Execute o projeto
 $ npm run dev
-```
-
-> A API irá iniciar em -> http://localhost:3333
 > O projeto irá iniciar em -> http://localhost:3000
+```
 
 ## 💚 Contato
 
