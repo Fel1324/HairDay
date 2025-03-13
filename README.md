@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-> Formação Full-Stack: JavaScript: JavaScript Antes do Framework. (Desafio prático).
+> Formação Full-Stack: JavaScript: JavaScript Antes do Framework.
 
 O projeto é um site de agendamento de cortes de cabelo.
 
